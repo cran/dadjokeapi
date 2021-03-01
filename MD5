@@ -1,0 +1,16 @@
+9f991cf98e6c14e3fa3f1d8d959f0f8b *DESCRIPTION
+ffd043c98f7a5623f6164342c8262116 *LICENSE
+d1a65e15c4309ba8a4d9fdb4dc94db08 *NAMESPACE
+e5ef15027f2549cdd00556a8dc8f79ce *R/groan.R
+14227fd2d39eac190f4ca68fb06698ff *README.md
+6e28c6a79eaa31b40bf0579abe4b57ec *inst/sounds/joke_sting.wav
+b5c00dbe0b79d0d7c39c5ae11fe059c2 *inst/testdata.rda
+61767f1c26f10d1c508e15e0fa0f0cf1 *man/groan.Rd
+16fa361fddbce1e67f76c4fbb453449f *man/groan_id.Rd
+629a1b34c87973cdd62c7e64d1554eb2 *man/groan_image.Rd
+57b4eacae2021f9e128c91cc0d0e3ad8 *man/groan_search.Rd
+6945744c5cc09173f72b902e9314976f *tests/testthat.R
+8105be05f6d0b2315910d1a7e1ed0ddd *tests/testthat/test-groan.R
+23677d6aa7a9df697f44243dfb660e82 *tests/testthat/test-groan_id.R
+8cd3c7628fe2798e6cf1cb81f01ec362 *tests/testthat/test-groan_image.R
+c349e9550ff92526afcd14231cd9e2af *tests/testthat/test-groan_search.R
